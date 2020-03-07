@@ -23,6 +23,7 @@
 * [Caio Santos Freitas](https://github.com/caiosantosf/etanol-ou-gasolina-react-native)
 * [Éder Martins](https://github.com/caniss/calcular-imc)
 * [Loner Patti](https://github.com/lonerpatti/combustivel2)
+
 ## Trabalho Star Wars - APP
 
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_app)
@@ -58,7 +59,7 @@
 * [Danilo S. Andrade](https://github.com/daniloandrade47/react_unifacef_StarWars.git)
 * [Bruno Brancalhão](https://github.com/brunobrancalhao/star-wars-api)
 * [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/StarWars_api.git)
-* [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-app)
+* [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-api)
 * [Danilo Alves](https://github.com/daniloalves19/starwars-app)
 * [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-app)
 * [Miguel Molina](https://github.com/miguelmolina78/starwars-app)
@@ -68,7 +69,7 @@
 * [Everson Pereira](https://github.com/eversonpereira/starwars)
 * [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
 * [Murilo Scapim](https://github.com/murilo-scapim/star-wars-api-unifacef)
-* [Bruno Pádua](https://github.com/brunopadua05/star-wars-api)
+* [Bruno Pádua](https://github.com/brunopadua05/star-wars-app)
 * [Éder Martins](https://github.com/caniss/star-wars-api)
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
 * [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
